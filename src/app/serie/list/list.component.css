@@ -1,0 +1,15 @@
+/* Personalización del encabezado */
+.bg-info {
+    background-color: #17a2b8 !important; /* Asegura que el azul sea consistente */
+  }
+  
+  /* Resaltar filas al pasar el ratón */
+  .table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  /* Personalización de los enlaces */
+  .text-primary:hover {
+    text-decoration: underline;
+  }
+  
